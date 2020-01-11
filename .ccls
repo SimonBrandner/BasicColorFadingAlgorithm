@@ -1,0 +1,3 @@
+%c++
+-I /usr/local/include/SDL2/
+-I ./
